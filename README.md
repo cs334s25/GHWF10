@@ -5,8 +5,8 @@ Practice space for using the Github Workflow.
 
 Participants:
 Ben Coleman
-
-
+Yousuf Kanan
+Brian Demyan
 ## Setup
 
 Before you begin work with this repo, run the following commands:
